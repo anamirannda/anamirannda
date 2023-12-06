@@ -11,7 +11,7 @@
 
   ![gato](https://github.com/anamirannda/anamirannda/assets/151754232/5a540e54-c6c3-4935-9d51-d62dd8d75382)
 
-- 💻 Estou entrando no mundo da programação e aprendendo cada vez mais sobre isso. Estou fazendo uma segunda graduação, em DevOps, e também aprendendo algumas linguagens como:
+- 💻 Estou fazendo uma segunda graduação, em DevOps, e também aprendendo algumas linguagens como:
 
   <div>
     <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.15.1/devicon.min.css"/>
