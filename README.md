@@ -26,3 +26,10 @@
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/trello/trello-plain.svg" width="40" />
           
     </div>
+    
+
+- 🔹 Segue o meu Linkedin para contato:
+  
+  <div>
+      <a href="https://www.linkedin.com/in/ana-miranda-8080471a3" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+  </div>  
