@@ -30,6 +30,8 @@
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-plain.svg" width="40" /> 
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg" width="40" />
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/trello/trello-plain.svg" width="40" />
+        <img src="https://github.com/anamirannda/anamirannda/assets/151754232/f86e5758-e007-469c-a523-ed70682d9dc4" width="40"/>
+
     </br> </br> </br> </br> 
     </div>
     
