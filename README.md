@@ -27,7 +27,6 @@
           
     </div>
     
-
 - 🔹 Segue o meu Linkedin para contato:
   
   <div>
