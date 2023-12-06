@@ -2,7 +2,7 @@
  
 - 🥰 Gosto de tecnologia, ler, aprender coisas novas e jogar 🎮📚🤖🤓         
   
-- 👩‍💻 Espero me tornar uma grande profissional nesse meio para que eu consiga contribuir para o avanço na tecnologia
+- 👩‍💻 Espero me tornar uma grande profissional nesse meio para que eu consiga contribuir para o avanço na tecnologia!
 
 
   
