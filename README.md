@@ -7,7 +7,7 @@
 
 - 🥰 Gosto de tecnologia, ler, aprender coisas novas e jogar 🎮📚🤖🤓         
   
-- 👩‍💻 Espero me tornar uma grande profissional nesse meio para que eu consiga contribuir para o avanço na tecnologia!
+- 👩‍💻 Espero me tornar uma grande profissional no campo da programação para que eu consiga contribuir para o avanço na tecnologia!
 
   ![gato](https://github.com/anamirannda/anamirannda/assets/151754232/5a540e54-c6c3-4935-9d51-d62dd8d75382)
 
