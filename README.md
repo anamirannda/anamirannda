@@ -11,12 +11,12 @@
 
   ![gato](https://github.com/anamirannda/anamirannda/assets/151754232/5a540e54-c6c3-4935-9d51-d62dd8d75382)
 
-- 💻 Estou fazendo uma segunda graduação, em DevOps, e também aprendendo algumas linguagens como:
+- 💻 Estou fazendo uma segunda graduação, em DevOps, e também aprendendo a programar em:
 
   <div>
     <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.15.1/devicon.min.css"/>
     <i class="devicon-csharp-original "></i>
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" width="40" />
+ 
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" /> 
    </br> </br> 
   </div>
