@@ -21,7 +21,7 @@
    </br> </br> 
   </div>
 
-  Ferramentas que eu também sei utilizar:
+  Ferramentas que eu sei utilizar:
 
     <div>
         <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.15.1/devicon.min.css"/>
