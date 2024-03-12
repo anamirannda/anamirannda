@@ -19,18 +19,34 @@ Me considero uma pessoa criativa sempre em busca de soluções mais inovadoras, 
   
 </br> </br>
 
-  <h2>  💻 Habilidades: </h2>
+  <h2>  💻 Linguagens: </h2>
 
   <div>
     <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.15.1/devicon.min.css"/>
     <i class="devicon-csharp-original "></i>
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40"; hspace="10"/>
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original-wordmark.svg" width="60" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azuresqldatabase/azuresqldatabase-plain.svg" width="40" />
           
-   </br> </br> 
+   </br> 
   </div>
 
    </br> 
+
+   <h2> 🛠 Ferramentas: </h2>        
+
+  <div>
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.15.1/devicon.min.css"/>
+    <i class="devicon-trêsdsmax-plain colori"></i>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/trello/trello-original.svg" width="40"; hspace="10"/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/notion/notion-original.svg" width="40"; hspace="10"/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/canva/canva-original.svg" width="40"; hspace="10"/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/photoshop/photoshop-original.svg" width="40"; hspace="10"/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" width="40"; hspace="7"/>
+    <img src="https://logohistory.net/wp-content/uploads/2023/05/Power-BI-Logo.png" width="65"/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" width="65"; hspace="7"/>      
+
+   </br> </br>  
+  </div>
     
 <h2>👋Conecte-se comigo: </h2>
 
