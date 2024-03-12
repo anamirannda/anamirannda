@@ -11,7 +11,7 @@ Apaixonada por tecnologia, eu mergulho de cabeça no universo digital, procurand
 
 Ler, estudar e jogar são as coisas que eu mais gosto de fazer. 🤓📚🎮
 
-Me considero uma pessoa criativa sempre em busca de soluções mais inovadoras, comprometida em resolver desafios de forma prática e precisa. 🎨🎯
+Me considero uma pessoa criativa, sempre em busca de soluções mais inovadoras, comprometida em resolver desafios de forma prática e precisa. 🎨🎯
 
   </br>
 
