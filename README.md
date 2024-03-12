@@ -5,7 +5,7 @@
 </div>
 </body>
 
-</br> </br>
+</br> 
 
 Apaixonada por tecnologia, eu mergulho de cabeça no universo digital, procurando sempre que posso, estar atualizada quanto a esse assunto.🤖
 
