@@ -7,13 +7,13 @@
 
 </br> 
 
- Profissional na área de Growth com forte atuação em estratégias orientadas por dados, otimização de funil e desenvolvimento de soluções para aumentar conversão e impulsionar resultados. Tenho experiência em analisar métricas de aquisição, comportamento de usuários e performance para transformar dados em ações práticas e escaláveis.
+  Profissional na área de Growth com forte atuação em estratégias orientadas por dados, otimização de funil e desenvolvimento de soluções para aumentar conversão e impulsionar resultados. Tenho experiência em analisar métricas de aquisição, comportamento de usuários e performance para transformar dados em ações práticas e escaláveis.
 
- Trabalho com criação de estratégias de demanda, segmentação por buscas, pesquisa de palavras-chave e melhorias contínuas de performance, sempre com foco em crescimento. Atuo também com gestão de parceiros B2B, retenção, prevenção de churn e iniciativas para ampliar visibilidade e resultados no digital.
+  Trabalho com criação de estratégias de demanda, segmentação por buscas, pesquisa de palavras-chave e melhorias contínuas de performance, sempre com foco em crescimento. Atuo também com gestão de parceiros B2B, retenção, prevenção de churn e iniciativas para ampliar visibilidade e resultados no digital.
 
- Tenho experiência em leitura de dashboards, consulta SQL, análises comparativas e testes estruturados para tomada de decisão. Também já atuei com edição e otimização de vitrines digitais, acompanhamento de jornada do usuário, planejamento de funil e coleta de dados para entender pontos de abandono.
+  Tenho experiência em leitura de dashboards, consulta SQL, análises comparativas e testes estruturados para tomada de decisão. Também já atuei com edição e otimização de vitrines digitais, acompanhamento de jornada do usuário, planejamento de funil e coleta de dados para entender pontos de abandono.
 
- Amo números, dados e tecnologia. Meu objetivo atual, é migrar para a área de dados.
+  Amo números, dados e tecnologia. Meu objetivo atual, é migrar para a área de dados.
 
   </br>
 
